@@ -1,0 +1,3 @@
+include ':rn'
+include ':app'
+rootProject.name = "ZWPReactNative"
